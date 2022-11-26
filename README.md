@@ -3,7 +3,7 @@ Simple Blog Web-Site made for practice Django
 
 You can Signup, Login and create/modify/delete posts.
 
-It has some basics, like authentication (register and login)
+It has some basics, like authorization (register and login)
 
 It also fully implements CRUD functionality
 
